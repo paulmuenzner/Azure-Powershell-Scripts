@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts">
+  <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts">
     <img src="public/logo.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -35,9 +35,9 @@
     <br />
     <a href="#settings">Automation</a>
     ·
-    <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/issues">Report Bug</a>
+    <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts/issues">Report Bug</a>
     ·
-    <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/issues">Request Feature</a>
+    <a href="https://github.com/paulmuenzner/Azure-Powershell-Scripts/issues">Request Feature</a>
   </p>
 </div>
 
@@ -102,7 +102,7 @@ Adding Scripts for
 -   ⬜️ Network Configuration Management
 -   ⬜️ Data Migration
 
-See the [open issues](https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/issues) to report bugs or request fatures.
+See the [open issues](https://github.com/paulmuenzner/Azure-Powershell-Scripts/issues) to report bugs or request fatures.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +134,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE.txt) for more informati
 
 Paul Münzner: [https://paulmuenzner.com](https://paulmuenzner.com) 
 
-Project Link: [https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts](https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts)
+Project Link: [https://github.com/paulmuenzner/Azure-Powershell-Scripts](https://github.com/paulmuenzner/Azure-Powershell-Scripts)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,12 +144,12 @@ Project Link: [https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts](http
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [github-shield]: https://img.shields.io/badge/paulmuenzner-black.svg?logo=github&logoColor=ffffff&colorB=000000
 [github-url]: https://github.com/paulmuenzner
-[contributors-shield]: https://img.shields.io/github/contributors/paulmuenzner/Azure-Powershell-Scripts-ts.svg
-[contributors-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/paulmuenzner/Azure-Powershell-Scripts-ts.svg
-[issues-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/issues
+[contributors-shield]: https://img.shields.io/github/contributors/paulmuenzner/Azure-Powershell-Scripts.svg
+[contributors-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/paulmuenzner/Azure-Powershell-Scripts.svg
+[issues-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts/issues
 [license-shield]: https://img.shields.io/badge/MIT-license-blue.svg
-[license-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts-ts/blob/master/LICENSE.txt
+[license-url]: https://github.com/paulmuenzner/Azure-Powershell-Scripts/blob/master/LICENSE.txt
 [website-shield]: https://img.shields.io/badge/www-paulmuenzner.com-blue
 [website-url]: https://paulmuenzner.com 
 
